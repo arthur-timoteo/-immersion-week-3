@@ -1,4 +1,4 @@
-### Semana de Imersão 3.0
+# Semana de Imersão 3.0
 Website with dynamic information loaded by the API and a mobile application that also consumes that information through this API.
 
 ## Data Base
